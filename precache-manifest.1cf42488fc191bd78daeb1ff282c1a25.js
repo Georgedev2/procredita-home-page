@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c0eacc1d015cd4154d4719491f51b7d",
+    "revision": "2ad8b5842e276d37d77e03fe5805c95f",
     "url": "/procredita-home-page/index.html"
   },
   {
-    "revision": "85a4e9c377de03e3e77c",
-    "url": "/procredita-home-page/static/css/main.df3b6364.chunk.css"
+    "revision": "fd40f39b4f8cb49426fb",
+    "url": "/procredita-home-page/static/css/main.54d6f9e6.chunk.css"
   },
   {
-    "revision": "37f8dd31ecca6362d93d",
-    "url": "/procredita-home-page/static/js/2.1bb523f3.chunk.js"
+    "revision": "4b34d66bc179fc4b81d6",
+    "url": "/procredita-home-page/static/js/2.67cbe124.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/procredita-home-page/static/js/2.1bb523f3.chunk.js.LICENSE.txt"
+    "url": "/procredita-home-page/static/js/2.67cbe124.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85a4e9c377de03e3e77c",
-    "url": "/procredita-home-page/static/js/main.9c6e1543.chunk.js"
+    "revision": "fd40f39b4f8cb49426fb",
+    "url": "/procredita-home-page/static/js/main.657efeea.chunk.js"
   },
   {
     "revision": "460e1210f619606adc90",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "27e9405ccdd6225bdf208731ce75c5bc",
     "url": "/procredita-home-page/static/media/header-logo.27e9405c.svg"
+  },
+  {
+    "revision": "bd500894b65bf48cbf70f057d42f91fa",
+    "url": "/procredita-home-page/static/media/hire-us-btn.bd500894.svg"
   },
   {
     "revision": "0a1e889c6bfae88d0e71ab5dcf028e3b",

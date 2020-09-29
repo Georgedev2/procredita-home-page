@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/procredita-home-page/precache-manifest.5ca4902e74c98ea192ae054d506e8cc9.js"
+  "/procredita-home-page/precache-manifest.1cf42488fc191bd78daeb1ff282c1a25.js"
 );
 
 self.addEventListener('message', (event) => {
