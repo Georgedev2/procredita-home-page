@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/procredita-home-page/static/css/main.7596663f.chunk.css",
-    "main.js": "/procredita-home-page/static/js/main.a54a5eff.chunk.js",
-    "main.js.map": "/procredita-home-page/static/js/main.a54a5eff.chunk.js.map",
+    "main.css": "/procredita-home-page/static/css/main.396aa2d5.chunk.css",
+    "main.js": "/procredita-home-page/static/js/main.6a13bba3.chunk.js",
+    "main.js.map": "/procredita-home-page/static/js/main.6a13bba3.chunk.js.map",
     "runtime-main.js": "/procredita-home-page/static/js/runtime-main.874bb3c4.js",
     "runtime-main.js.map": "/procredita-home-page/static/js/runtime-main.874bb3c4.js.map",
     "static/js/2.67cbe124.chunk.js": "/procredita-home-page/static/js/2.67cbe124.chunk.js",
     "static/js/2.67cbe124.chunk.js.map": "/procredita-home-page/static/js/2.67cbe124.chunk.js.map",
     "index.html": "/procredita-home-page/index.html",
-    "precache-manifest.e1e341087262ba2e959f3559833441e6.js": "/procredita-home-page/precache-manifest.e1e341087262ba2e959f3559833441e6.js",
+    "precache-manifest.0a4242c2529b21fe663e6eb26f380c25.js": "/procredita-home-page/precache-manifest.0a4242c2529b21fe663e6eb26f380c25.js",
     "service-worker.js": "/procredita-home-page/service-worker.js",
-    "static/css/main.7596663f.chunk.css.map": "/procredita-home-page/static/css/main.7596663f.chunk.css.map",
+    "static/css/main.396aa2d5.chunk.css.map": "/procredita-home-page/static/css/main.396aa2d5.chunk.css.map",
     "static/js/2.67cbe124.chunk.js.LICENSE.txt": "/procredita-home-page/static/js/2.67cbe124.chunk.js.LICENSE.txt",
     "static/media/client-four.svg": "/procredita-home-page/static/media/client-four.490c0f04.svg",
     "static/media/client-one.svg": "/procredita-home-page/static/media/client-one.3f71b912.svg",
     "static/media/client-three.svg": "/procredita-home-page/static/media/client-three.4644dab3.svg",
     "static/media/client-two.svg": "/procredita-home-page/static/media/client-two.0d8147cc.svg",
-    "static/media/footer-logo.svg": "/procredita-home-page/static/media/footer-logo.bb165e0f.svg",
     "static/media/nav-style.css": "/procredita-home-page/static/media/header-logo.27e9405c.svg",
     "static/media/hire-us.css": "/procredita-home-page/static/media/hire-us-btn.bd500894.svg",
+    "static/media/home-style.css": "/procredita-home-page/static/media/what-we-do-btn.ebfb4586.svg",
     "static/media/our-tech-one.svg": "/procredita-home-page/static/media/our-tech-one.0a1e889c.svg",
     "static/media/our-tech-three.svg": "/procredita-home-page/static/media/our-tech-three.55fb8f89.svg",
     "static/media/our-tech-two.svg": "/procredita-home-page/static/media/our-tech-two.55fb8f89.svg",
-    "static/media/home-style.css": "/procredita-home-page/static/media/what-we-do-btn.ebfb4586.svg",
     "static/media/service-image.svg": "/procredita-home-page/static/media/service-image.10cc98e8.svg",
     "static/media/why-procredita.css": "/procredita-home-page/static/media/why-procredita (2).6dc1bbcf.svg",
     "static/media/why-procredita-logo.svg": "/procredita-home-page/static/media/why-procredita-logo.56cb311d.svg"
@@ -30,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.874bb3c4.js",
     "static/js/2.67cbe124.chunk.js",
-    "static/css/main.7596663f.chunk.css",
-    "static/js/main.a54a5eff.chunk.js"
+    "static/css/main.396aa2d5.chunk.css",
+    "static/js/main.6a13bba3.chunk.js"
   ]
 }
