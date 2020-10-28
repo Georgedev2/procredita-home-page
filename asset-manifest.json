@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/procredita-home-page/static/css/main.88775943.chunk.css",
-    "main.js": "/procredita-home-page/static/js/main.a320fdf8.chunk.js",
-    "main.js.map": "/procredita-home-page/static/js/main.a320fdf8.chunk.js.map",
+    "main.css": "/procredita-home-page/static/css/main.6517b834.chunk.css",
+    "main.js": "/procredita-home-page/static/js/main.647672f8.chunk.js",
+    "main.js.map": "/procredita-home-page/static/js/main.647672f8.chunk.js.map",
     "runtime-main.js": "/procredita-home-page/static/js/runtime-main.874bb3c4.js",
     "runtime-main.js.map": "/procredita-home-page/static/js/runtime-main.874bb3c4.js.map",
     "static/js/2.1bb523f3.chunk.js": "/procredita-home-page/static/js/2.1bb523f3.chunk.js",
     "static/js/2.1bb523f3.chunk.js.map": "/procredita-home-page/static/js/2.1bb523f3.chunk.js.map",
     "index.html": "/procredita-home-page/index.html",
-    "precache-manifest.bd64a930ae69df42105e1f1f9ce54b1c.js": "/procredita-home-page/precache-manifest.bd64a930ae69df42105e1f1f9ce54b1c.js",
+    "precache-manifest.4b5e062b61c2e5dcec3abd761f00099b.js": "/procredita-home-page/precache-manifest.4b5e062b61c2e5dcec3abd761f00099b.js",
     "service-worker.js": "/procredita-home-page/service-worker.js",
-    "static/css/main.88775943.chunk.css.map": "/procredita-home-page/static/css/main.88775943.chunk.css.map",
+    "static/css/main.6517b834.chunk.css.map": "/procredita-home-page/static/css/main.6517b834.chunk.css.map",
     "static/js/2.1bb523f3.chunk.js.LICENSE.txt": "/procredita-home-page/static/js/2.1bb523f3.chunk.js.LICENSE.txt",
     "static/media/client-four.svg": "/procredita-home-page/static/media/client-four.490c0f04.svg",
     "static/media/client-one.svg": "/procredita-home-page/static/media/client-one.3f71b912.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.874bb3c4.js",
     "static/js/2.1bb523f3.chunk.js",
-    "static/css/main.88775943.chunk.css",
-    "static/js/main.a320fdf8.chunk.js"
+    "static/css/main.6517b834.chunk.css",
+    "static/js/main.647672f8.chunk.js"
   ]
 }
